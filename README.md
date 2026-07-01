@@ -197,12 +197,6 @@ I cannot answer because this information does not exist in the uploaded document
 
 ---
 
-## 📷 Demo
-
-Add screenshots or a short demo video here.
-
----
-
 ## Future Improvements
 
 * User authentication
